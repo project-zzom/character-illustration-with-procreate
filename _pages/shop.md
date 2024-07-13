@@ -7,25 +7,18 @@ header:
   overlay_filter: 0.5
 ---
 
-## 자사 스토어
+## ZZOM 스토어
 
-현재 크라우드펀딩 준비 중으로 스토어에는 미출간 상태입니다.
+크라우드펀딩 종료 후 보완 작업 중입니다. 스토어에는 8월 말 출간 예정입니다.
 
 <!--
 ![]({{ site.baseurl }}/assets/images/shop/ZZOM store.png)
 -->
 <a href="https://smartstore.naver.com/zzom" target="_blank" class="btn btn--info">ZZOM 스토어 바로가기</a>
 
+## 온오프라인 서점
 
-기본 조건은 온/오프라인 서점과 같습니다.
-
-* 기본 10% 할인 (추가 5% 간접 할인)
-* 배송료 무료 (도서 산간지역 제외)
-* 문화비 소득공제 신청 가능
-
-## 온/오프라인 서점
-
-현재 크라우드펀딩 준비 중으로 온오프라인 서점에는 미출간 상태입니다.
+크라우드펀딩 종료 후 보완 작업 중입니다. 스토어에는 8월 말 출간 예정입니다.
 
 ![]({{ site.baseurl }}/images/pixabay/books-1842261_1920.jpg)
 
@@ -35,10 +28,12 @@ header:
 <a href="http://www.yes24.com/Product/Goods/115143425" target="_blank" class="btn btn--info">Yes24 바로가기</a>
 -->
 
+<!--
 * 기본 10% 할인 (추가 5% 간접 할인)
 * 배송료 무료 (도서 산간지역 제외)
 * 문화비 소득공제 신청 가능
 * 플랫폼 자체 혜택
+-->
 
 <!--
 

@@ -18,5 +18,7 @@ main:
 #    url: /posts/
   - title: "정오표"
     url: /errata/
+  - title: "다운로드"
+    url: /download/    
   - title: "크라우드펀딩"
-    url: /crowd-funding/
+    url: /crowdfunding/
