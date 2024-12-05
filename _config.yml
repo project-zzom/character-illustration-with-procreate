@@ -31,6 +31,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+breadcrumbs: false
 
 include:
   - _pages
@@ -59,7 +60,7 @@ plugins:
 author:
   name   : "번역하는 개발자"
   email: codelabor@gmail.com
-  avatar : "/assets/images/profile-bomber.jpg"
+  avatar : "/assets/images/profile/profile-translator.jpg"
   bio    : "프로젝트 ZZOM 운영자"
   instagram: "codelabor"
   facebook: "sangjae.shin"
@@ -82,17 +83,33 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://brunch.co.kr/@codelabor"
 
+# target="_blank" 되지 않음
 footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+ links:
+  - label: "YouTube"
+    icon: "fa-brands fa-youtube"
+    url: "https://www.youtube.com/@zzom/" 
+  - label: "TikTok"
+    icon: "fa-brands fa-tiktok"
+    url: "https://www.tiktok.com/@project.zzom"      
+  - label: "X"
+    icon: "fa-brands fa-x-twitter"
+    url: "https://x.com/project_zzom/"
+  - label: "Instagram"
+    icon: "fa-brands fa-instagram"
+    url: "https://www.instagram.com/project.zzom/"
+  - label: "Thread"
+    icon: "fa-brands fa-threads"
+    url: "https://www.threads.net/@project.zzom"     
+  - label: "Facebook"
+    icon: "fa-brands fa-facebook"
+    url: "https://www.facebook.com/project.zzom/"
+  - label: "Bluesky"
+    icon: "fa-brands fa-bluesky"
+    url: "https://bsky.app/profile/project-zzom.bsky.social"          
+  - label: "GitHub"
+    icon: "fa-brands fa-github"
+    url: "https://github.com/project-zzom"     
 
 defaults:
   # _posts
