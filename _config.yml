@@ -79,9 +79,9 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "Brunch"
-      icon: "fas fa-fw fa-link"
-      url: "https://brunch.co.kr/@codelabor"
+     - label: "littly"
+       icon: "fa-solid fa-link"
+       url: "https://litt.ly/codelabor"
 
 # target="_blank" 되지 않음
 footer:
