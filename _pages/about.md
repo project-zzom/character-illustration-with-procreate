@@ -89,12 +89,12 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 규격: 가로 188mm, 세로 257mm, 높이 9.46mm, 무게 520g
 
 #### 전자책 EPUB
-* 판매처: <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="btn btn--primary btn--small">교보문고에서 구매하기</a>
+* 판매처: <a href="" target="_blank" class="btn btn--primary btn--small">교보문고에서 구매하기</a>
 * ISBN: 979-11-980533-9-8 (15650) 
 * 발간: 2024-12-02, 가격: 20,000원
 
 #### 전자책 PDF
-* 판매처: <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="btn btn--primary btn--small">알라딘에서 구매하기</a> <a href="http://www.yes24.com/Product/Goods/115143425" target="_blank" class="btn btn--primary btn--small">Yes24에서 구매하기</a>
+* 판매처: <a href="" target="_blank" class="btn btn--primary btn--small">알라딘에서 구매하기</a> <a href="" target="_blank" class="btn btn--primary btn--small">Yes24에서 구매하기</a>
 * ISBN: 979-11-987634-0-2 (15650) 
 * 발간: 2024-12-02, 가격: 20,000원
 
