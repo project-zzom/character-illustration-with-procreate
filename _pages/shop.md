@@ -1,7 +1,7 @@
 ---
 permalink: /shop/
 title: "구매처"
-excerpt: "가장 좋은 조건으로 책을 구매하는 방법"
+excerpt: "가장 편한 시간에 가장 좋은 방법으로 구매하세요"
 header:
   overlay_image: /assets/images/header-github-pages.png
   overlay_filter: 0.5

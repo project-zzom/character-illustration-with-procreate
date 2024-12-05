@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "도서 정보"
-excerpt: "쉽고 빠르게 디지털 페인팅 입문하기"
+excerpt: "쉽고 빠르게 디지털 페인팅에 입문하세요"
 header:
   og_image: /assets/images/cover/cover-front-ko.jpg
   overlay_image: /assets/images/header-github-pages.png
