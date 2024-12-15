@@ -62,11 +62,11 @@ author:
   email: codelabor@gmail.com
   avatar : "/assets/images/profile/profile-translator.jpg"
   bio    : "프로젝트 ZZOM 운영자"
-  instagram: "codelabor"
-  threads: "codelabor"
-  facebook: "sangjae.shin"
-  x: "codelabor"
-  youtube: "http://youtube.com/@translating-developer"
+#  instagram: "codelabor"
+#  threads: "codelabor"
+#  facebook: "sangjae.shin"
+#  x: "codelabor"
+#  youtube: "http://youtube.com/@translating-developer"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
