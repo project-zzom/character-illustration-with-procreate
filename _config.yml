@@ -80,10 +80,13 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-     - label: "littly"
+     - label: "News Letter"
+       icon: "fa-solid fa-link"
+       url: "https://project-zzom.stibee.com/"       
+     - label: "Littly"
        icon: "fa-solid fa-link"
        url: "https://litt.ly/codelabor"
-
+       
 # target="_blank" 되지 않음
 footer:
  links:
