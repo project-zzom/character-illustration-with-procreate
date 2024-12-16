@@ -342,6 +342,32 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 
 {% include video id="aGJtnqpMU6g" provider="youtube" %}
 
+---
+
+{% include video id="AdXpJpZS_VY" provider="youtube" %}
+
+{% include video id="alE8bfb18LE" provider="youtube" %}
+
+{% include video id="B6wDyT0BiHs" provider="youtube" %}
+
+{% include video id="dYQlotq3VUA" provider="youtube" %}
+
+{% include video id="Do5B0_RxGiM" provider="youtube" %}
+
+---
+
+{% include video id="Zg5nsc9Bo_g" provider="youtube" %}
+
+{% include video id="gREnjW8kIkM" provider="youtube" %}
+
+{% include video id="abT1bzZL9q0" provider="youtube" %}
+
+{% include video id="abT1bzZL9q0" provider="youtube" %}
+
+{% include video id="OspQbAcOC9g" provider="youtube" %}
+
+---
+
 ## 관련 굿즈
 
 ![logo]({{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
