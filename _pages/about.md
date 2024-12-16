@@ -326,6 +326,22 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 
 ![logo]({{ site.baseurl }}/assets/images/zzom-logo-dark (100 x 100).png){: .align-center}
 
+## 관련 영상
+
+{% include video id="P-LUqwK5avY" provider="youtube" %}
+
+{% include video id="wKJ9f47VC6M" provider="youtube" %}
+
+{% include video id="iuKIpsagm9o" provider="youtube" %}
+
+{% include video id="uDgKuCSBFNI" provider="youtube" %}
+
+{% include video id="oNGrNB62B1Y" provider="youtube" %}
+
+{% include video id="9XMR0ZboQY8" provider="youtube" %}
+
+{% include video id="aGJtnqpMU6g" provider="youtube" %}
+
 ## 관련 굿즈
 
 ![logo]({{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
