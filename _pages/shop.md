@@ -20,6 +20,7 @@ toc_label: 바로가기
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--primary btn--small">스마트스토어에서 구매하기</a>
 <a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--primary btn--small">톡스토어에서 구매하기</a>
 <a href="https://www.coupang.com/vp/products/8486619053" target="_blank" class="btn btn--primary btn--small">쿠팡에서 구매하기</a>
+<a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--primary btn--small">토스에서 구매하기</a>
 <!--
 <a href="" target="_blank" class="btn btn--primary btn--small">토스에서 구매하기</a>
 -->
