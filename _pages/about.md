@@ -355,8 +355,6 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 
 {% include video id="abT1bzZL9q0" provider="youtube" %}
 
-{% include video id="abT1bzZL9q0" provider="youtube" %}
-
 {% include video id="OspQbAcOC9g" provider="youtube" %}
 
 ---
