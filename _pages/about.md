@@ -85,10 +85,13 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 발간: 2024-12-27, 정가: 22,000원
 * 페이지수: 160 페이지
 * 규격: 가로 188mm, 세로 257mm, 높이 9.46mm, 무게 520g
+* 판매처: <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--primary btn--small">교보문고에서 구입하기</a>
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--primary btn--small">알라딘에서 구입하기</a>
+<a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--primary btn--small">Yes24에서 구입하기</a>
 
 #### 전자책 (PDF)
-* 판매처: <a href="" target="_blank" class="btn btn--primary btn--small">교보문고에서 구매하기</a> <a href="" target="_blank" class="btn btn--primary btn--small">알라딘에서 구매하기</a> <a href="" target="_blank" class="btn btn--primary btn--small">Yes24에서 구매하기</a>
-* ISBN:  
+* 판매처: <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000010786532" target="_blank" class="btn btn--primary btn--small">교보문고에서 구매하기</a> <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354572482" target="_blank" class="btn btn--primary btn--small">알라딘에서 구매하기</a> <a href="https://www.yes24.com/Product/goods/140536133" target="_blank" class="btn btn--primary btn--small">Yes24에서 구매하기</a>
+* ISBN: 979-11-987634-3-3 (15650)
 * 발간: 2024-12-27, 가격: 20,000원
 
 {% include gallery %}
