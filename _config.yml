@@ -145,10 +145,9 @@ tag_archive:
 
 #### Custom ####  
 
-# Google Analytics
+# google
 google_analytics: 'G-FL5818NYCK'
-
-# Google Adsense
+google_tag_manager: 'GTM-W52NS3HZ'
 adsense: "enabled"
 adsense-data-ad-client: "ca-pub-5050141342916334"
 #adsense-data-ad-slot-vertical: "9543862036"
