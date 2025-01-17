@@ -10,17 +10,15 @@ toc_sticky: true
 toc_label: 바로가기  
 ---
 
-2024년 12월 27일 출간 확정입니다.
-
 ## ZZOM 스토어
 
 ![]({{ site.baseurl }}/assets/images/shop/ZZOM store.png)
 
 ### 종이책 
-<a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--primary btn--small link-shop">스마트스토어에서 구매하기</a>
-<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--primary btn--small link-shop">톡스토어에서 구매하기</a>
-<a href="https://www.coupang.com/vp/products/8486619053" target="_blank" class="btn btn--primary btn--small link-shop">쿠팡에서 구매하기</a>
-<a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--primary btn--small link-shop">토스에서 구매하기</a>
+<a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--primary btn--small link-shop">네이버 스마트스토어에서 구매하기</a>
+<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--primary btn--small link-shop">카카오 톡스토어에서 구매하기</a>
+<a href="https://www.coupang.com/vp/products/8486619053" target="_blank" class="btn btn--primary btn--small link-shop">쿠팡 마이샵에서 구매하기</a>
+<a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--primary btn--small link-shop">토스 쇼핑에서 구매하기</a>
 
 ## 온오프라인 서점
 
