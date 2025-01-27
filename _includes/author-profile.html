@@ -53,8 +53,6 @@
       </li>
       {% endif %}      
 
-
-
       {% if author.linkedin %}
       <li>
         <a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" itemprop="sameAs"
@@ -282,14 +280,9 @@
       </li>
       {% endif %}
 
-      {% include author-profile-custom-links.html %}
+      
     </ul>
+    
   </div>
-
-  <!-- banner -->
-  <div>
-    <a href="https://zzom.io/participation/" target="_blank">
-      <img src="{{ site.baseurl }}/assets/images/naver-pay-point (reward) (960 x 600).png" />
-    </a>
-  </div>
+  {% include author-profile-custom-links.html %}
 </div>
