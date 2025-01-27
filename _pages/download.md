@@ -7,9 +7,7 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
-toc_label: 바로가기  
 ---
-
 ## 다운로드 파일
 
 {% include figure popup=true image_path="/assets/images/download/download-images.png" %}

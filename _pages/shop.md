@@ -7,9 +7,7 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
-toc_label: 바로가기  
 ---
-
 ## 판매 채널
 
 ![](/assets/images/ai-model/girl-holding-box-blue-hoodie.png)

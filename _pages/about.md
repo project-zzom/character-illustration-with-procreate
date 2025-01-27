@@ -7,7 +7,6 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
-toc_label: 바로가기
 gallery:
   - url: /assets/images/mockup/mockup-01.jpg
     image_path: /assets/images/mockup/mockup-01.jpg
@@ -28,9 +27,7 @@ gallery:
   - url: /assets/images/mockup/mockup-09.jpg
     image_path: /assets/images/mockup/mockup-09.jpg    
 ---
-
 ## 책 소개
-
 
 {% include video id="P-LUqwK5avY" provider="youtube" %}
 

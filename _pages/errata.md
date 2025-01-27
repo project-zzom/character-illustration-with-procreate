@@ -7,10 +7,7 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
-toc_label: 바로가기  
 ---
-
-
 ## 오탈자
 
 ![](/assets/images/ai-model/girl-reading-book-white-hoodie.png)
