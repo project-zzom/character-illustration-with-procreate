@@ -8,6 +8,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+
+# Theme settings
+minimal_mistakes_skin: default
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -15,15 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 # locale: en
-name: 프로젝트 ZZOM
 title: 캐릭터 일러스트 강좌 with 프로크리에이트
-email: project.zzom@gmail.com
+subtitle: 도서 지원 페이지
+name: 프로젝트 ZZOM
 description: >- # this means to ignore newlines until "baseurl:"
   번역서 '캐릭터 일러스트 강좌 with 프로크리에이트' 도서 지원 페이지입니다.
-# twitter_username: username
-# github_username: username
-minimal_mistakes_skin: default
+logo: 'assets/images/zzom-logo-dark (48 x 48).png' 
+breadcrumbs: false
+copyright: ZZOM
+copyright_url: "https://zzom.io"
 search: true
+
+email: project.zzom@gmail.com
+
+# SEO Related
+google_site_verification:
+bing_site_verification:
+naver_site_verification:
 
 # Build settings
 markdown: kramdown
@@ -33,7 +45,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-breadcrumbs: false
+
 
 include:
   - _pages
@@ -60,24 +72,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "번역하는 개발자"
-  email: codelabor@gmail.com
-  avatar : "/assets/images/profile/profile-bomber.jpg"
-  bio    : "프로젝트 ZZOM 운영자"
-#  instagram: "codelabor"
-#  threads: "codelabor"
-#  facebook: "sangjae.shin"
-#  x: "codelabor"
+  name: "번역하는 개발자"
+  avatar: "/assets/images/profile/profile-bomber.jpg"
+  bio: "프로젝트 ZZOM 운영자"
+#  location: "대한민국"
   links:
     - label: "X"
       icon: "fa-brands fa-x-twitter"
       url: "https://x.com/codelabor"
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/codelabor.bsky.social"    
-    - label: "Thread"
-      icon: "fa-brands fa-threads"
-      url: "https://www.threads.net/@codelabor"       
+#    - label: "Bluesky"
+#      icon: "fa-brands fa-bluesky"
+#      url: "https://bsky.app/profile/codelabor.bsky.social"    
+#    - label: "Thread"
+#      icon: "fa-brands fa-threads"
+#      url: "https://www.threads.net/@codelabor"       
     - label: "Instagram"
       icon: "fa-brands fa-square-instagram"
       url: "https://www.instagram.com/codelabor"
@@ -87,9 +95,12 @@ author:
     - label: "YouTube"
       icon: "fa-brands fa-youtube"
       url: "http://youtube.com/@translating-developer" 
-    - label: "TikTok"
-      icon: "fa-brands fa-tiktok"
-      url: "https://www.tiktok.com/@translating_developer"          
+#    - label: "TikTok"
+#      icon: "fa-brands fa-tiktok"
+#      url: "https://www.tiktok.com/@translating_developer"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:codelabor@gmail.com"
 #    - label: "GitHub"
 #      icon: "fa-brands fa-github"
 #      url: "https://github.com/codelabor"
@@ -103,6 +114,9 @@ author:
 # target="_blank" 되지 않음
 footer:
  links:
+  - label: "ZZOM"
+    icon: "fa-solid fa-house"
+    url: "https://zzom.io"
   - label: "X"
     icon: "fa-brands fa-x-twitter"
     url: "https://x.com/project_zzom/"
@@ -126,7 +140,10 @@ footer:
     url: "https://www.tiktok.com/@project.zzom"     
   - label: "GitHub"
     icon: "fa-brands fa-github"
-    url: "https://github.com/project-zzom"      
+    url: "https://github.com/project-zzom"
+  - label: "Email"
+    icon: "fa-solid fa-envelope"
+    url: "mailto:project.zzom@gmail.com"    
 
 defaults:
   # _posts
@@ -154,7 +171,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
 
 #### Custom ####  
 
