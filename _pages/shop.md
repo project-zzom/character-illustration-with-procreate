@@ -12,7 +12,8 @@ toc_label: 바로가기
 
 ## 판매 채널
 
-![](https://zzom.io/assets/images/ai-model/girl-holding-box-blue-hoodie.png)
+![](/assets/images/ai-model/girl-holding-box-blue-hoodie.png)
+
 
 ### ZZOM 스토어
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>

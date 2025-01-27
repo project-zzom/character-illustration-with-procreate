@@ -72,7 +72,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 한국 작가 소개
 
 ## 상세 페이지
-![상세 페이지]({{ site.baseurl }}/assets/images/detail/detail page (common) (1column) type 0.png)
+![상세 페이지](/assets/images/detail/detail page (common) (1column) type 0.png)
 
 ## 도서 정보
 
@@ -117,7 +117,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 
 ## 저자 / 역자 소개
 ■ 쓰고 그린이: 딥 블리자드 (머나먼 땅의 그림 마왕)<br/>
-![프로필 저자]({{ site.baseurl }}/assets/images/profile/profile-author.jpg)<br/>
+![프로필 저자](/assets/images/profile/profile-author.jpg)<br/>
 * 일러스트 작가 / 디지털 페인팅 버추얼 유튜버
 * <a href="https://www.youtube.com/@deepblizzard" target="_blank">https://www.youtube.com/@deepblizzard</a>
 * <a href="https://x.com/mao_DBmiyuki" target="_blank">https://x.com/mao_DBmiyuki</a>
@@ -127,7 +127,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 </p>
 
 ■ 옮긴이: 신상재 (번역하는 개발자)<br/>
-![프로필 역자]({{ site.baseurl }}/assets/images/profile/profile-translator.jpg)<br/>
+![프로필 역자](/assets/images/profile/profile-translator.jpg)<br/>
 * 삼성SDS 소프트웨어 아키텍트 / 1인출판 프로젝트 ZZOM 운영자
 * <a href="https://www.youtube.com/@translating-developer" target="_blank">https://www.youtube.com/@translating-developer</a>
 * <a href="https://www.facebook.com/sangjae.shin" target="_blank">https://www.facebook.com/sangjae.shin</a>
@@ -298,28 +298,28 @@ GtC 스타일은 'Grayscale to Color'를 줄인 말로 제가 고안한 채색 �
 ■ 144p<br/>
 프로크리에이트와 관련된 설정은 '프로크리에이트(procreate)' 앱에서 하는 설정과 아이패드의 '설정(settings)' 앱에서 하는 설정이 있습니다. 의외로 많은 사용자가 모르고 넘어가는 내용일 수 있으니 어떤 게 있는지 미리 봐 두었다가 꼭 필요할 때 찾아서 활용해 보세요.
 
-![미리보기]({{ site.baseurl }}/assets/images/cover-girl.png){: .align-center}
+![미리보기](/assets/images/cover-girl.png){: .align-center}
 
 ## 베타리더 후기
 
 ■ 유다혜 (병원약사 / 병원약사 인스타툰 작가)<br/>
-![프로필 유다혜]({{ site.baseurl }}/assets/images/profile/profile-beta-reader (유다혜).jpg)<br/>
+![프로필 유다혜](/assets/images/profile/profile-beta-reader (유다혜).jpg)<br/>
 제가 독학으로 배웠을 때 보다 프로크리에이트의 기본 기능과 응용 기능이 자세하게 설명되어 있어서 디지털 드로잉에 새로 입문하는 분에게는 최적화된 책이라는 생각이 들었습니다. 특히 실습 과정에서는 평소의 작화 스타일과 조금은 다른, 여러 가지 스타일을 체험해 볼 수 있어서 좋았습니다. 디지털 드로잉 입문자는 물론 이미 작품 활동을 하고 있는 작가님에게도 다양한 드로잉 기법을 익히는데 도움이 될 거라 생각합니다.
 
 ■ 이아름 (프리랜서 / 개발자)<br/>
-![프로필 이아름]({{ site.baseurl }}/assets/images/profile/profile-beta-reader (이아름).jpg)<br/>
+![프로필 이아름](/assets/images/profile/profile-beta-reader (이아름).jpg)<br/>
 다른 사람처럼 그림이나 만화를 그리고 싶어서 각종 드로잉 입문서를 따라 해보기도 했었는데요. 진도가 너무 더디고 지루하다 보니 금방 그만두게 되었습니다. 다행히 이번 책은 베타 리딩을 하면서 열심히 따라 그린 덕분인지 중도에 포기하지 않고 완주할 수 있었습니다.
 
 ■ 홍수영 (삼성SDS / 개발자)<br/>
-![프로필 홍수영]({{ site.baseurl }}/assets/images/profile/profile-beta-reader (홍수영).jpg)<br/>
+![프로필 홍수영](/assets/images/profile/profile-beta-reader (홍수영).jpg)<br/>
 디지털 일러스트가 처음인 저조차도 하나씩 순서대로 따라 하다 보니 어렵지 않게 작품을 완성할 수 있었고 QR 코드로 영상을 참고할 수 있다 보니 어떤 도구를, 어떻게 쓰는지 알아보기 좋았습니다. 덕분에 프로크리에이트에 대한 막연한 두려움이 많이 사라졌고요.
 
 ■ 윤인성 (프리랜서 / IT 그래픽 분야 작가)<br/>
-![프로필 윤인성]({{ site.baseurl }}/assets/images/profile/profile-beta-reader (윤인성).jpg)<br/>
+![프로필 윤인성](/assets/images/profile/profile-beta-reader (윤인성).jpg)<br/>
 역자가 좋은 책을 만들기 위해 많은 고민을 했고 독자가 내용을 쉽게 이해할 수 있도록 신경 쓴 게 보입니다. 원서의 느낌을 잘 살리면서도 한국 독자가 자연스럽게 읽을 수 있도록 잘 다듬어진 책입니다.
 
 
-![미리보기]({{ site.baseurl }}/assets/images/deep-blizzard.png){: .align-center}
+![미리보기](/assets/images/deep-blizzard.png){: .align-center}
 
 ## 출판사 서평
 AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 그림을 그립니다. 
@@ -339,7 +339,7 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 용도가 애매한 아이패드가 있다면, 구입하고 방치된 프로크리에이트가 있다면, 이 책으로 새 생명을 불어넣어 주세요.
 따라 그리기를 반복하다 보면 어느새 인스타툰도 그리고 웹툰에도 도전할 수 있을 겁니다. 
 
-![logo]({{ site.baseurl }}/assets/images/zzom-logo-dark (100 x 100).png){: .align-center}
+![logo](/assets/images/zzom-logo-dark (100 x 100).png){: .align-center}
 
 ## 관련 영상
 
@@ -383,7 +383,7 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 
 ## 관련 굿즈
 
-![logo]({{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
+![logo](/assets/images/goods/artist-glove.png){: .align-center}
 
 * 제품명: 아티스트 글로브
 * 판매처: <a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
