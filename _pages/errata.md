@@ -11,8 +11,12 @@ toc_label: 바로가기
 ---
 
 
-## 오탈자 내용
-읽는 데 불편드려 죄송합니다.<br/>
+## 오탈자
+
+![](https://zzom.io/assets/images/ai-model/girl-reading-book-white-hoodie.png)
+
+### 오탈자 현황
+<!-- 읽는 데 불편드려 죄송합니다.<br/> -->
 현재까지 접수된 오탈자는 없습니다.
 
 ## 오탈자 반영 방법
