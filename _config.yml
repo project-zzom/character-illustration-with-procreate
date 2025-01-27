@@ -42,6 +42,9 @@ google_site_verification:
 bing_site_verification:
 naver_site_verification:
 
+# Social sharing
+og_image: "/assets/images/cover/cover-front-ko(640 x 870).jpg"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
