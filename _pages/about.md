@@ -68,7 +68,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 도서명: 魔王とはじめる!iPadキャライラスト
 * 부제: Procreateを使った簡単&時短テクニック
 * 글쓴이, 그린이: ディープブリザード
-* 판매처: <a href="https://amzn.asia/d/2E7JuMV" target="_blank" class="btn btn--primary btn--small">Amazon에서 구매하기</a>
+* 판매처: <a href="https://amzn.asia/d/2E7JuMV" target="_blank" class="btn btn--info btn--small">Amazon</a>
 
 ### 번역서 정보
 
@@ -78,19 +78,23 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 도서명: 캐릭터 일러스트 강좌 with 프로크리에이트
 * 부제: 쉽고 빠르게 디지털 페인팅 입문하기
 * 글쓴이, 그린이: 딥 블리자드 / 옮긴이: 신상재
+* 판매처: <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
+<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡스토어</a>
+<a href="https://www.coupang.com/vp/products/8486619053" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
+<a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<a href="https://posty.pe/2xv14u" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
+<a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small">교보문고</a>
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--info btn--small">알라딘</a>
+<a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--info btn--small">Yes24</a>
 
 #### 종이책
-* 판매처: <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--primary btn--small">ZZOM에서 구매하기</a>
+* 판매처: 
 * ISBN: 979-11-980533-3-6 (13650) 
 * 발간: 2024-12-27, 정가: 22,000원
 * 페이지수: 160 페이지
 * 규격: 가로 188mm, 세로 257mm, 높이 9.46mm, 무게 520g
-* 판매처: <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--primary btn--small">교보문고에서 구입하기</a>
-<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--primary btn--small">알라딘에서 구입하기</a>
-<a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--primary btn--small">Yes24에서 구입하기</a>
 
 #### 전자책 (PDF)
-* 판매처: <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000010786532" target="_blank" class="btn btn--primary btn--small">교보문고에서 구매하기</a> <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354572482" target="_blank" class="btn btn--primary btn--small">알라딘에서 구매하기</a> <a href="https://www.yes24.com/Product/goods/140536133" target="_blank" class="btn btn--primary btn--small">Yes24에서 구매하기</a>
 * ISBN: 979-11-987634-3-3 (15650)
 * 발간: 2024-12-27, 가격: 20,000원
 
@@ -366,4 +370,5 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 
 ![logo]({{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
 
-* 아티스트 글로브 <a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--primary btn--small">해외직구하기</a>
+* 제품명: 아티스트 글로브
+* 판매처: <a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>

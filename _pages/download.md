@@ -19,7 +19,7 @@ toc_label: 바로가기
 * 브러시 파일 3종
 * 배경 이미지 1종
 
-<a href="https://m.site.naver.com/1qypW" target="_blank" class="btn btn--primary btn--small">다운로드하기</a>
+<a href="https://m.site.naver.com/1qypW" target="_blank" class="btn btn--info btn--small">다운로드하기</a>
 
 {% include figure popup=true image_path="/assets/images/download/download-images.png" %}
 {% include figure popup=true image_path="/assets/images/download/download-brushes.png" %}

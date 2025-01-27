@@ -13,9 +13,7 @@ toc_label: 바로가기
 
 ## 오탈자 내용
 읽는 데 불편드려 죄송합니다.<br/>
-2024년 12월 출간 예정으로 아직 접수된 오탈자가 없습니다.
-
-
+현재까지 접수된 오탈자는 없습니다.
 
 ## 오탈자 반영 방법
 * 종이책: 다음 쇄에 반영
@@ -25,7 +23,7 @@ toc_label: 바로가기
 책을 읽다가 잘 못된 표현을 발견했다면 꼭 알려주세요. 
 제보주신 분께는 보잘 것 없지만 작은 리워드를 드리고 있습니다.
 
-<a href="https://zzom.io/participation/#%EC%98%A4%ED%83%88%EC%9E%90-%EC%A0%9C%EB%B3%B4" target="_blank" class="btn btn--primary btn--small">오탈자 제보하기</a>
+<a href="https://zzom.io/participation/#%EC%98%A4%ED%83%88%EC%9E%90-%EC%A0%9C%EB%B3%B4" target="_blank" class="btn btn--info btn--small">오탈자 제보하기</a>
 
 <!-- 작성 포맷
 ### 000p
