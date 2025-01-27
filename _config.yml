@@ -18,7 +18,7 @@ minimal_mistakes_skin: default
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# locale: en
+locale: ko
 title: 캐릭터 일러스트 강좌 with 프로크리에이트
 subtitle: 도서 지원 페이지
 name: 프로젝트 ZZOM
@@ -29,6 +29,11 @@ breadcrumbs: false
 copyright: ZZOM
 copyright_url: "https://zzom.io"
 search: true
+search_full_content: true
+search_provider: google
+google:
+  search_engine_id: 81076b913b4ac4dd3
+  instant_search: true
 
 email: project.zzom@gmail.com
 
