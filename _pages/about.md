@@ -79,7 +79,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 부제: 쉽고 빠르게 디지털 페인팅 입문하기
 * 글쓴이, 그린이: 딥 블리자드 / 옮긴이: 신상재
 * 판매처: <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
-<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡스토어</a>
+<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
 <a href="https://www.coupang.com/vp/products/8486619053" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
 <a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/2xv14u" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
