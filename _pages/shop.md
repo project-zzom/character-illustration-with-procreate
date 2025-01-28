@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 ## 판매 채널
 
-![](/assets/images/ai-model/girl-holding-box-blue-hoodie.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/ai-model/girl-holding-box-blue-hoodie.png)
 
 
 ### ZZOM 스토어

@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 ## 오탈자
 
-![](/assets/images/ai-model/girl-reading-book-white-hoodie.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/ai-model/girl-reading-book-white-hoodie.png)
 
 ### 오탈자 현황
 <!-- 읽는 데 불편드려 죄송합니다.<br/> -->
