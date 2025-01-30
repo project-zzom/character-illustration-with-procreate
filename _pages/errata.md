@@ -3,6 +3,7 @@ permalink: /errata/
 title: "정오표"
 excerpt: "잘못된 부분 바로 잡습니다"
 header:
+  og_image: /assets/images/ai-model/girl-reading-book-white-hoodie.png
   overlay_image: /assets/images/header-github-pages.png
   overlay_filter: 0.5
 toc: true

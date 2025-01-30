@@ -3,6 +3,7 @@ permalink: /download/
 title: "다운로드"
 excerpt: "참고 자료를 다운로드 받으세요"
 header:
+  og_image: /assets/images/download/download-images.png
   overlay_image: /assets/images/header-github-pages.png
   overlay_filter: 0.5
 toc: true
