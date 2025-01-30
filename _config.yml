@@ -41,6 +41,12 @@ bing_site_verification:
 naver_site_verification:
 
 # Social sharing
+twitter:
+  username: project_zzom
+facebook:
+  username: project.zzom
+  app_id: 1333407193978535
+  publisher: https://www.facebook.com/project.zzom
 og_image: "/assets/images/cover/cover-front-ko(640 x 870).jpg"
 
 # Build settings
