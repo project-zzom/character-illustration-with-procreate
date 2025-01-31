@@ -89,10 +89,6 @@ body {
     border-bottom: 1px solid $border-color;
   }
 
-  h2:first-of-type {
-    margin-top: 0em;
-  }
-
 	h1, h2, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
@@ -174,6 +170,11 @@ body {
     margin-top: -1.5em;
     padding-inline-start: 1.25rem;
   }
+
+  ul:first-of-type, h2:first-of-type, h3:first-of-type, h4:first-of-type, h5:first-of-type, h6:first-of-type {
+    margin-top: 0em;
+  }
+  
 }
 
 .page__hero {
