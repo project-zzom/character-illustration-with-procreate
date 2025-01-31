@@ -47,7 +47,7 @@ facebook:
   username: project.zzom
   app_id: 1333407193978535
   publisher: https://www.facebook.com/project.zzom
-og_image: "/assets/images/cover/cover-front-ko(640 x 870).jpg"
+og_image: "/assets/images/cover/cover-front-ko.jpg"
 
 # Build settings
 markdown: kramdown
