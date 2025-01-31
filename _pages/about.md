@@ -337,7 +337,7 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 용도가 애매한 아이패드가 있다면, 구입하고 방치된 프로크리에이트가 있다면, 이 책으로 새 생명을 불어넣어 주세요.
 따라 그리기를 반복하다 보면 어느새 인스타툰도 그리고 웹툰에도 도전할 수 있을 겁니다. 
 
-![logo]({{ site.url }}{{ site.baseurl }}/assets/images/zzom-logo-dark (100 x 100).png){: .align-center}
+![logo]({{ site.url }}{{ site.baseurl }}/assets/images/logo/zzom-logo-dark (100 x 100).png){: .align-center}
 
 ## 관련 영상
 
