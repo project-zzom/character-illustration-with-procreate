@@ -386,7 +386,7 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 
 ## 관련 굿즈
 
-![logo]({{ site.url }}{{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
+![Goods]({{ site.url }}{{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
 
 * 제품명: 아티스트 글로브
 * 판매처: <a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
