@@ -4,7 +4,7 @@ title: "크라우드펀딩"
 excerpt: "쉽고 빠르게 디지털 페인팅 입문하기"
 header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png
-  overlay_image: /assets/images/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 ---
 
