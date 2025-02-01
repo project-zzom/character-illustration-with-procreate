@@ -73,10 +73,8 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 추천 자료 소개
 * 한국 작가 소개
 
-## 상세 페이지
+### 상세 페이지
 ![상세 페이지]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail page (common) (1column) type 0.png)
-
-## 도서 정보
 
 ### 원서 정보
 
@@ -132,7 +130,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * <a href="https://www.youtube.com/@translating-developer" target="_blank">https://www.youtube.com/@translating-developer</a>
 * <a href="https://www.facebook.com/sangjae.shin" target="_blank">https://www.facebook.com/sangjae.shin</a>
 
-삼성SDS에서 소프트웨어 아키텍트를 거쳐 프로젝트 매니지먼트 컨설팅을 하고 있다. 입문자를 위한 IT, 드로잉, 번역 노하우를 1인출판 프로젝트 ZZOM을 통해 공개하고 있다. 역서로 『출근했더니 스크럼 마스터가 된 건에 관하여』, 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
+삼성SDS에서 소프트웨어 아키텍트를 거쳐 프로젝트 매니지먼트 컨설팅을 하고 있다. 입문자를 위한 IT, 드로잉, 번역 노하우를 1인출판 프로젝트 ZZOM을 통해 공개하고 있다. 역서로 『캐릭터 일러스트 강좌 with 프로크리에이트』, 『출근했더니 스크럼 마스터가 된 건에 관하여』, 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
 
 ## 미리보기
 
