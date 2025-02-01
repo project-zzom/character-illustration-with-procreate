@@ -102,16 +102,21 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--info btn--small">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--info btn--small">Yes24</a>
 
-#### 종이책
-* 판매처: 
-* ISBN: 979-11-980533-3-6 (13650) 
-* 발간: 2024-12-27, 정가: 22,000원
-* 페이지수: 160 페이지
-* 규격: 가로 188mm, 세로 257mm, 높이 9.46mm, 무게 520g
+<div class="notice">
+  <h4>종이책</h4>
+  <ul>
+    <li>979-11-980533-3-6 (13650)</li>
+    <li>발간: 2024-12-27, 정가: 22,000원</li>
+    <li>페이지수: 160 페이지</li>
+    <li>규격: 가로 188mm, 세로 257mm, 높이 9.46mm, 무게 520g</li>
+  </ul>
 
-#### 전자책 (PDF)
-* ISBN: 979-11-987634-3-3 (15650)
-* 발간: 2024-12-27, 가격: 20,000원
+  <h4>전자책 (PDF)</h4>
+  <ul>
+    <li>ISBN: 979-11-987634-3-3 (15650)</li>
+    <li>발간: 2024-12-27, 가격: 20,000원</li>
+  </ul>
+</div>
 
 ## 저자 / 역자 소개
 ■ 쓰고 그린이: 딥 블리자드 (머나먼 땅의 그림 마왕)<br/>
