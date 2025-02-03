@@ -14,11 +14,11 @@ main:
     url: /about/
   - title: "관련 소식"
     url: "https://zzom.io/categories#%ED%94%84%EB%A1%9C%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8A%B8"
-    target: "_blank"    
+    target: "_blank"
+# - title: "새소식"
+#   url: /posts/
   - title: "구매처"
     url: /shop/    
-#  - title: "새소식"
-#    url: /posts/
   - title: "정오표"
     url: /errata/
   - title: "다운로드"
