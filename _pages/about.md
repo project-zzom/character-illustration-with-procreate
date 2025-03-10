@@ -28,7 +28,7 @@ gallery:
   - url: /assets/images/mockup/mockup-09.jpg
     image_path: /assets/images/mockup/mockup-09.jpg    
 ---
-## 책 내용 안내
+## 책 내용 소개
 
 {% include video id="P-LUqwK5avY" provider="youtube" %}
 
@@ -62,18 +62,80 @@ gallery:
 * <a href="https://www.youtube.com/shorts/8LpBRCwPh7Q" target="_blank">코믹북 스타일 작화</a> 방법
 * <a href="https://www.youtube.com/shorts/Htg8aklDTUU" target="_blank">실사 배경 스타일 작화</a> 방법
 
-### 특징
-책과 관련된 동영상을 볼 수 있도록 QR 코드와 링크를 추가합니다.
-PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드를 찍어서 동영상을 함께 보며 책을 따라 할 수 있습니다. 한국어판 번역서에 한국 독자만을 위한 부록을 추가했습니다.
+### 차별화 포인트
+한국어판 번역서에서 책 내용과 관련된 영상을 볼 수 있도록 QR 코드와 링크가 추가되어 있습니다.
+종이책 독자는 스마트폰으로 QR 코드를 찍어서, 전자책 독자는 손으로 터치해서 관련 영상을 시청할 수 있습니다.
+원서에 생략된 설명을 추가하고 이해를 돕기 위해 일부 순서를 조정했습니다. 
+한국 독자만을 위한 부록을 추가했습니다.
 
 * <a href="https://booth.pm/ko" target="_blank">BOOTH</a> 활용 방법 안내
 * 추천 자료 소개
 * 한국 작가 소개
 
-### 상세 페이지
-![상세 페이지]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail page (common) (1column) type 0.png)
+### 홍보 이미지
+![홍보 이미지]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail page (common) (1column) type 0.png)
 
-### 원서 정보
+### 관련 영상
+
+{% include video id="P-LUqwK5avY" provider="youtube" %}
+
+{% include video id="wKJ9f47VC6M" provider="youtube" %}
+
+{% include video id="iuKIpsagm9o" provider="youtube" %}
+
+{% include video id="uDgKuCSBFNI" provider="youtube" %}
+
+{% include video id="oNGrNB62B1Y" provider="youtube" %}
+
+{% include video id="9XMR0ZboQY8" provider="youtube" %}
+
+{% include video id="aGJtnqpMU6g" provider="youtube" %}
+
+---
+
+{% include video id="AdXpJpZS_VY" provider="youtube" %}
+
+{% include video id="alE8bfb18LE" provider="youtube" %}
+
+{% include video id="B6wDyT0BiHs" provider="youtube" %}
+
+{% include video id="dYQlotq3VUA" provider="youtube" %}
+
+{% include video id="Do5B0_RxGiM" provider="youtube" %}
+
+---
+
+{% include video id="Zg5nsc9Bo_g" provider="youtube" %}
+
+{% include video id="gREnjW8kIkM" provider="youtube" %}
+
+{% include video id="abT1bzZL9q0" provider="youtube" %}
+
+{% include video id="OspQbAcOC9g" provider="youtube" %}
+
+{% include custom/affiliate.html %}
+
+### 미리보기
+
+{% include figure popup=true image_path="/assets/images/preview/preview-01.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-02.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-03.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-04.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-05.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-06.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-07.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-08.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-09.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-10.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-11.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-12.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-13.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-14.png" %}{: .align-center}
+{% include figure popup=true image_path="/assets/images/preview/preview-15.png" %}{: .align-center}
+
+## 원서 / 번역서 정보
+
+■ 원서 정보
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ja.jpg" %}{: .align-center}
 
@@ -82,7 +144,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * 글쓴이, 그린이: ディープブリザード
 * 판매처: <a href="https://amzn.asia/d/2E7JuMV" target="_blank" class="btn btn--info btn--small">Amazon</a>
 
-### 번역서 정보
+■ 번역서 정보
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}{: .align-center}
 
@@ -133,24 +195,6 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 * <a href="https://www.facebook.com/sangjae.shin" target="_blank">https://www.facebook.com/sangjae.shin</a>
 
 삼성SDS에서 소프트웨어 아키텍트를 거쳐 프로젝트 매니지먼트 컨설팅을 하고 있다. 입문자를 위한 IT, 드로잉, 번역 노하우를 1인출판 프로젝트 ZZOM을 통해 공개하고 있다. 역서로 『캐릭터 일러스트 강좌 with 프로크리에이트』, 『출근했더니 스크럼 마스터가 된 건에 관하여』, 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
-
-## 미리보기
-
-{% include figure popup=true image_path="/assets/images/preview/preview-01.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-02.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-03.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-04.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-05.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-06.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-07.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-08.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-09.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-10.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-11.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-12.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-13.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-14.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-15.png" %}{: .align-center}
 
 ## 목차
 
@@ -298,7 +342,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 ■ 144p<br/>
 > 프로크리에이트와 관련된 설정은 '프로크리에이트(procreate)' 앱에서 하는 설정과 아이패드의 '설정(settings)' 앱에서 하는 설정이 있습니다. 의외로 많은 사용자가 모르고 넘어가는 내용일 수 있으니 어떤 게 있는지 미리 봐 두었다가 꼭 필요할 때 찾아서 활용해 보세요.
 
-![미리보기]({{ site.url }}{{ site.baseurl }}/assets/images/cover-girl.png){: .align-center}
+![커버 걸]({{ site.url }}{{ site.baseurl }}/assets/images/cover-girl.png){: .align-center}
 
 ## 베타리더 후기
 
@@ -319,7 +363,7 @@ PC, 태블릿으로 전자책을 보는 독자는 스마트폰으로 QR 코드�
 > 역자가 좋은 책을 만들기 위해 많은 고민을 했고 독자가 내용을 쉽게 이해할 수 있도록 신경 쓴 게 보입니다. 원서의 느낌을 잘 살리면서도 한국 독자가 자연스럽게 읽을 수 있도록 잘 다듬어진 책입니다.
 
 
-![미리보기]({{ site.url }}{{ site.baseurl }}/assets/images/deep-blizzard.png){: .align-center}
+![커버 저자]({{ site.url }}{{ site.baseurl }}/assets/images/deep-blizzard.png){: .align-center}
 
 ## 출판사 서평
 AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 그림을 그립니다. 
@@ -340,43 +384,3 @@ AI가 원하는 이미지를 만들어 주는 시대에도 우리는 여전히 �
 따라 그리기를 반복하다 보면 어느새 인스타툰도 그리고 웹툰에도 도전할 수 있을 겁니다. 
 
 ![logo]({{ site.url }}{{ site.baseurl }}/assets/images/logo/zzom-logo-dark (100 x 100).png){: .align-center}
-
-## 관련 영상
-
-{% include video id="P-LUqwK5avY" provider="youtube" %}
-
-{% include video id="wKJ9f47VC6M" provider="youtube" %}
-
-{% include video id="iuKIpsagm9o" provider="youtube" %}
-
-{% include video id="uDgKuCSBFNI" provider="youtube" %}
-
-{% include video id="oNGrNB62B1Y" provider="youtube" %}
-
-{% include video id="9XMR0ZboQY8" provider="youtube" %}
-
-{% include video id="aGJtnqpMU6g" provider="youtube" %}
-
----
-
-{% include video id="AdXpJpZS_VY" provider="youtube" %}
-
-{% include video id="alE8bfb18LE" provider="youtube" %}
-
-{% include video id="B6wDyT0BiHs" provider="youtube" %}
-
-{% include video id="dYQlotq3VUA" provider="youtube" %}
-
-{% include video id="Do5B0_RxGiM" provider="youtube" %}
-
----
-
-{% include video id="Zg5nsc9Bo_g" provider="youtube" %}
-
-{% include video id="gREnjW8kIkM" provider="youtube" %}
-
-{% include video id="abT1bzZL9q0" provider="youtube" %}
-
-{% include video id="OspQbAcOC9g" provider="youtube" %}
-
-{% include custom/affiliate.html %}
