@@ -8,26 +8,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-
-# Theme settings
-minimal_mistakes_skin: default
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-locale: ko
 title: 캐릭터 일러스트 강좌 with 프로크리에이트
-subtitle: 도서 지원 페이지
-name: 프로젝트 ZZOM
 description: >- # this means to ignore newlines
   번역서 '캐릭터 일러스트 강좌 with 프로크리에이트' 도서 지원 페이지입니다.
+subtitle: 도서 지원 페이지
+name: 프로젝트 ZZOM
 logo: "assets/images/logo/zzom-logo-dark (48 x 48).png"
 breadcrumbs: false
 copyright: ZZOM
 copyright_url: "https://zzom.io"
+locale: ko
+minimal_mistakes_skin: default
 search: true
 search_full_content: true
 search_provider: google
@@ -73,6 +69,15 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 #author:
 #  name: "번역하는 개발자"
 #  avatar: "/assets/images/profile/profile-translator.jpg"
@@ -85,7 +90,7 @@ include:
 #    - label: "Bluesky"
 #      icon: "fa-brands fa-bluesky"
 #      url: "https://bsky.app/profile/codelabor.bsky.social"    
-#    - label: "Thread"
+#    - label: "Threads"
 #      icon: "fa-brands fa-threads"
 #      url: "https://www.threads.net/@codelabor"       
 #    - label: "Instagram"
@@ -115,46 +120,37 @@ include:
        
 # target="_blank" 되지 않음
 footer:
- links:
-  - label: "ZZOM"
-    icon: "fa-solid fa-house"
-    url: "https://zzom.io"
-  - label: "X"
-    icon: "fa-brands fa-x-twitter"
-    url: "https://x.com/project_zzom/"
-  - label: "Bluesky"
-    icon: "fa-brands fa-bluesky"
-    url: "https://bsky.app/profile/project-zzom.bsky.social"    
-  - label: "Thread"
-    icon: "fa-brands fa-threads"
-    url: "https://www.threads.net/@project.zzom"       
-  - label: "Instagram"
-    icon: "fa-brands fa-square-instagram"
-    url: "https://www.instagram.com/project.zzom/"
-  - label: "Facebook"
-    icon: "fa-brands fa-facebook"
-    url: "https://www.facebook.com/project.zzom/"
-  - label: "YouTube"
-    icon: "fa-brands fa-youtube"
-    url: "https://www.youtube.com/@zzom/" 
-  - label: "TikTok"
-    icon: "fa-brands fa-tiktok"
-    url: "https://www.tiktok.com/@project.zzom"     
-  - label: "GitHub"
-    icon: "fa-brands fa-github"
-    url: "https://github.com/project-zzom"
-  - label: "Email"
-    icon: "fa-solid fa-envelope"
-    url: "mailto:project.zzom@gmail.com"    
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jemoji
+  links:
+    - label: "ZZOM"
+      icon: "fa-solid fa-house"
+      url: "https://zzom.io"
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/project_zzom/"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/project-zzom.bsky.social"    
+    - label: "Threads"
+      icon: "fa-brands fa-threads"
+      url: "https://www.threads.net/@project.zzom"       
+    - label: "Instagram"
+      icon: "fa-brands fa-square-instagram"
+      url: "https://www.instagram.com/project.zzom/"
+    - label: "Facebook"
+      icon: "fa-brands fa-facebook"
+      url: "https://www.facebook.com/project.zzom/"
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@zzom/" 
+    - label: "TikTok"
+      icon: "fa-brands fa-tiktok"
+      url: "https://www.tiktok.com/@project.zzom"     
+    - label: "GitHub"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/project-zzom"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:project.zzom@gmail.com"    
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -165,15 +161,6 @@ whitelist:
   - jekyll-include-cache
   - jemoji  
 
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-# Defaults
 defaults:
   # _posts
   - scope:
@@ -193,6 +180,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 #### Custom ####  
 email: project.zzom@gmail.com
