@@ -15,7 +15,8 @@ toc_sticky: true
 
 ### 기본 도서
 
-![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate (1024 x 1024).png){: .align-center}
+<a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank">
+![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate (1024 x 1024).png){: .align-center}</a>
 
 <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
@@ -30,18 +31,18 @@ toc_sticky: true
 
 #### 아티스트 글로브
 
-![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/artist-glove.png){: .align-center}
-
-<a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+<a href="https://s.click.aliexpress.com/e/_c39qQaGl" target="_blank">
+![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/artist-blove-aliexpress.webp){: .align-center}</a>
+<a href="https://s.click.aliexpress.com/e/_c39qQaGl" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
 
 #### 프로크리에이트 키패드
 
-![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 2.png){: .align-center}
-
+<a href="https://link.coupang.com/a/ccyUP9" target="_blank">
+![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 2.png){: .align-center}</a>
 <a href="https://link.coupang.com/a/ccyUP9" target="_blank" class="btn btn--info btn--small">쿠팡 파트너스</a>
 
-![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 1.png){: .align-center}
-
-<a href="https://s.click.aliexpress.com/e/_olcibV3" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+<a href="https://s.click.aliexpress.com/e/_c4dxOrUZ" target="_blank">
+![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keyboard-aliexpress.webp){: .align-center}</a>
+<a href="https://s.click.aliexpress.com/e/_c4dxOrUZ" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
 
 {% include custom/affiliate.html %}
