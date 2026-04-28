@@ -30,6 +30,7 @@ gallery:
 ---
 ## 책 내용 소개
 
+
 {% include video id="P-LUqwK5avY" provider="youtube" %}
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
@@ -42,6 +43,8 @@ gallery:
 <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
+
+{% include custom/affiliate.html %}
 
 {% include figure popup=true image_path="/assets/images/cover/cover-spread.jpg" %}{: .align-center}
 
