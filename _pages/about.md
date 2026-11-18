@@ -74,7 +74,20 @@ gallery:
 * 한국 작가 소개
 
 ### 홍보 이미지
-![홍보 이미지]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail page (common) (1column) type 0.png)
+<figure class="align-center"><a href="{{ '/assets/images/detail/detail page (common) (1column) type 0.png' | relative_url }}" class="image-popup">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-01-1080x2675.jpg' | relative_url }}" alt="" width="1080" height="2675" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-02-1080x3056.jpg' | relative_url }}" alt="" width="1080" height="3056" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-03-1080x2550.jpg' | relative_url }}" alt="" width="1080" height="2550" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-04-1080x3189.jpg' | relative_url }}" alt="" width="1080" height="3189" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-05-1080x2332.jpg' | relative_url }}" alt="" width="1080" height="2332" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-06-1080x2493.jpg' | relative_url }}" alt="" width="1080" height="2493" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-07-1080x3055.jpg' | relative_url }}" alt="" width="1080" height="3055" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-08-1080x2683.jpg' | relative_url }}" alt="" width="1080" height="2683" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-09-1080x3186.jpg' | relative_url }}" alt="" width="1080" height="3186" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-10-1080x2403.jpg' | relative_url }}" alt="" width="1080" height="2403" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-11-1080x2482.jpg' | relative_url }}" alt="" width="1080" height="2482" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail page (common) (1column) type 0-12-1080x3020.jpg' | relative_url }}" alt="" width="1080" height="3020" loading="lazy" style="display:block;margin:0;border-radius:0">
+</a></figure>
 
 ### 관련 영상
 
