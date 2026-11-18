@@ -136,9 +136,9 @@ gallery:
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ja.jpg" %}{: .align-center}
 
-* 도서명: 魔王とはじめる!iPadキャライラスト
-* 부제: Procreateを使った簡単&時短テクニック
-* 글쓴이, 그린이: ディープブリザード
+* 도서명: <span lang="ja">魔王とはじめる!iPadキャライラスト</span>
+* 부제: <span lang="ja">Procreateを使った簡単&時短テクニック</span>
+* 글쓴이, 그린이: <span lang="ja">ディープブリザード</span>
 * 판매처: <a href="https://amzn.asia/d/2E7JuMV" target="_blank" class="btn btn--info btn--small">Amazon</a>
 
 ■ 번역서 정보
@@ -180,7 +180,7 @@ gallery:
 * <a href="https://x.com/mao_DBmiyuki" target="_blank">https://x.com/mao_DBmiyuki</a>
 
 <p>
-디지털 페인팅 입문자를 위한 강의를 유튜브로 공개하고 있다. 우리나라에는 Live2D 강의로 많이 알려져 있다. 저서로 『캐릭터 일러스트 강좌 with 프로크리에이트(魔王とはじめる！iPadキャライラスト - Procreateを使った簡単＆時短テクニック)』, 『캐릭터 일러스트 강좌 with 클립 스튜디오 페인트(ディープブリザードの超入門講座 - 初めてのCLIP STUDIO PAINT PRO編)』, 『ディープブリザードと学ぶ - たのしいアイビスペイント入門教室』, 『バズれる!アイビスペイント ディープブリザードの超入門講座 (スマホ＆タブレット両対応)』 등이 있다. 각종 브러시와 이미지 샘플, 작화 노하우를 담은 전자책을 부스(BOOTH)라는 콘텐츠 플랫폼에 공유하고 있다.
+디지털 페인팅 입문자를 위한 강의를 유튜브로 공개하고 있다. 우리나라에는 Live2D 강의로 많이 알려져 있다. 저서로 『캐릭터 일러스트 강좌 with 프로크리에이트(<span lang="ja">魔王とはじめる！iPadキャライラスト - Procreateを使った簡単＆時短テクニック</span>)』, 『캐릭터 일러스트 강좌 with 클립 스튜디오 페인트(<span lang="ja">ディープブリザードの超入門講座 - 初めてのCLIP STUDIO PAINT PRO編</span>)』, 『<span lang="ja">ディープブリザードと学ぶ - たのしいアイビスペイント入門教室</span>』, 『<span lang="ja">バズれる!アイビスペイント ディープブリザードの超入門講座 (スマホ＆タブレット両対応)</span>』 등이 있다. 각종 브러시와 이미지 샘플, 작화 노하우를 담은 전자책을 부스(BOOTH)라는 콘텐츠 플랫폼에 공유하고 있다.
 </p>
 
 ■ 옮긴이: 신상재 (번역하는 개발자)<br/>
