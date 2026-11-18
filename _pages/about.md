@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "도서 정보"
-excerpt: "쉽고 빠르게 디지털 페인팅에 입문하세요"
+excerpt: "서랍 속 아이패드로 캐릭터 그리기. 구독자 40만 딥 블리자드의 프로크리에이트 입문 강좌, QR 영상과 선화 데이터 제공"
 header:
   og_image: /assets/images/cover/cover-front-ko.jpg
   overlay_image: /assets/images/header/header-github-pages.png
