@@ -35,12 +35,14 @@ gallery:
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
 
-<a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
-<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://service.toss.im/shopping/p/22046505" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
-<a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
-<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
-<a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
+<p><a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="btn btn--success btn--large link-shop">지금 구매하기 (네이버 스마트스토어)</a></p>
+
+<p>다른 판매처:
+<a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="link-shop">카카오 톡딜</a> ·
+<a href="https://toss.im/_m/txFbMpWy" target="_blank" class="link-shop">토스 쇼핑</a> ·
+<a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="link-shop">교보문고</a> ·
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="link-shop">알라딘</a> ·
+<a href="https://link.yes24.com/a/LdFq0YTiou" target="_blank" class="link-shop">Yes24</a></p>
 
 {% include figure popup=true image_path="/assets/images/cover/cover-spread.jpg" %}{: .align-center}
 
